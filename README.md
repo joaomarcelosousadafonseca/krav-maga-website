@@ -1,0 +1,1 @@
+A responsive Krav Maga website developed using HTML, CSS, and Bootstrap. This project explores web development fundamentals, responsive design, and user interface creation, showcasing practical skills through a martial arts-themed website.
